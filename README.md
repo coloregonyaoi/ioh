@@ -1,4 +1,4 @@
 <p align="center">
-<img src="https://files.catbox.moe/sl2p7u.png">
+<img src="https://files.catbox.moe/8n1env.png">
 </p>
 
