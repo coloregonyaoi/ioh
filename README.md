@@ -2,8 +2,8 @@
 <img src="https://files.catbox.moe/sl2p7u.png">
 </p>
 
-hi i am laika lucielle
+<p align="center">hi i am laika lucielle</p>
 &nbsp;
-i love fob and my friends
+<p align="center">i love fob and my friends</p>
 &nbsp;
-w2i boi
+<p align="center">w2i boi</p>
